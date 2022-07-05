@@ -10,7 +10,7 @@ Everyone has at one time, or another seen something in the sky that they just co
 
 # Results:
 
-![this_is_an_image](ufo_website.png)
+![this_is_an_image](ufo_website.PNG)
 
 To access this website, first download all the contents of this GitHub repository. Then open the index.html file. Once on the website, you can easily search the database by using the “Filter Search” section on the lefthand side. If you want to, you can search each category individually or find a specific UFO sighting by filling in all five categories. Your first option is “Enter Date.” The date format must be extremely specific in its spelling/formatting. Don’t include extra zeros in the date because this input must match the data within the data.js. For example, searching 1/2/2010 will being up a result, but 1/02/2010 won’t. The rest of the filter options (City, State, Country, and Shape) need to be done in under case and must match something existing in the dataset.
 
